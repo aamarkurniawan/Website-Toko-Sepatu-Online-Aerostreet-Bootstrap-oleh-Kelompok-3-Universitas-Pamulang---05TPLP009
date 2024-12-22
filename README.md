@@ -66,7 +66,7 @@ Website ini mengintegrasikan teknologi Bootstrap untuk tampilan yang elegan dan 
 ## 📜 Cara Menjalankan Proyek
 1. Clone repository ini ke komputer lokal:  
    ```bash
-   git clone https://github.com/username/aerostreet-online-store.git
+   git clone https://github.com/aamarkurniawan/Website-Toko-Sepatu-Online-Aerostreet-Bootstrap-oleh-Kelompok-3-Universitas-Pamulang---05TPLP009.git
 
 2. **Konfigurasi file database di `db/koneksi.php`**  
    Buka file `db/koneksi.php` dan lakukan pengaturan sesuai dengan server lokal Anda:
